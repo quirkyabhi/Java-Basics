@@ -11,7 +11,7 @@ public class Type {
         /* float
         int
         */
-        int d=3; 
+        // int d=3; 
         System.out.println("Type conversion c="+ c);        //print statement
     }
     
