@@ -7,7 +7,6 @@ public class EmployeeDetails {
         Employee emp= new Employee();
         emp.firstName="Nishant";
         emp.lastName="Mishra";
-
         System.out.println("Employee Details : \n"+ emp.empCode+"\n" +emp.deptCode+"\n" + emp.firstName+"\n" + emp.lastName);
 
     }
