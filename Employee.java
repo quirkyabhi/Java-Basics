@@ -7,6 +7,12 @@ public class Employee {
     String firstName;
     String lastName;
     Employee(){
+         
+    }
+    Employee(int eCode, String fName, String lName){
         this.deptCode=101;
+        this.empCode=eCode;
+        this.firstName=fName;
+        this.lastName=lName;
     }
 }
