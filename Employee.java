@@ -15,4 +15,11 @@ public class Employee {
         this.firstName=fName;
         this.lastName=lName;
     }
+
+    Employee(Employee e){
+        this.deptCode=101;
+        this.empCode=e.empCode;
+        this.firstName=e.firstName;
+        this.lastName=e.lastName;
+    }
 }
