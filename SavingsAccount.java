@@ -1,7 +1,9 @@
 /**
  * SavingsAccount
  */
-public class SavingsAccount extends Bank{
+// public final class SavingsAccount extends Bank{       //Final can't be inherited
+
+ public class SavingsAccount extends Bank{
     public float savingInterest=1.0f;
     public static void main(String[] args) {
         SavingsAccount obj= new SavingsAccount();
