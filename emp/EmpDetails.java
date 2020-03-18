@@ -1,9 +1,9 @@
 package emp;
-import Dept.DeptDetails;
+import dept.DeptDetails;
 /**
  * EmpDetails
  */
-public class EmpDetails extends dept.DeptDetails {
+public class EmpDetails extends DeptDetails {
     public static void main(String[] args) {
         EmpDetails emp= new EmpDetails();
         System.out.println("ID : "+emp.dept_id);
