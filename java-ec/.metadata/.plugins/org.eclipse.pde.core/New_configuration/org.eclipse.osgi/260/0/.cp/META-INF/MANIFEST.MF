@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.mylyn.help.ui;singleton:=true
+Bundle-Name: %Bundle-Name
+Bundle-Version: 3.25.0.v20190108-0330
+Bundle-Localization: plugin
+Built-By: mockbuild
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: %Bundle-Vendor
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_191
+

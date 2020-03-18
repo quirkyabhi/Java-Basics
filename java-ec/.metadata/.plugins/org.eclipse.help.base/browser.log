@@ -1,0 +1,10 @@
+
+Mar 09, 2020 15:23:23.96 NEW SESSION
+Mar 09, 2020 15:23:23.96 which: no mozilla in (/home/abhi/.local/bin:/home/abhi/bin:/usr/lib/jvm/java-13-openjdk-13.0.1.9-2.rolling.fc29.x86_64/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin)
+Mar 09, 2020 15:23:23.97 which: no netscape in (/home/abhi/.local/bin:/home/abhi/bin:/usr/lib/jvm/java-13-openjdk-13.0.1.9-2.rolling.fc29.x86_64/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin)
+Mar 09, 2020 15:23:23.97 /usr/bin/firefox
+
+Mar 09, 2020 17:34:27.32 NEW SESSION
+Mar 09, 2020 17:34:27.32 which: no mozilla in (/usr/lib/jvm/java-13-openjdk-13.0.1.9-2.rolling.fc29.x86_64/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin)
+Mar 09, 2020 17:34:27.32 which: no netscape in (/usr/lib/jvm/java-13-openjdk-13.0.1.9-2.rolling.fc29.x86_64/bin:/usr/share/Modules/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/var/lib/snapd/snap/bin)
+Mar 09, 2020 17:34:27.33 /usr/bin/firefox

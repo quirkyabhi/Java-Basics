@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.pde;singleton:=true
+Bundle-Name: %pluginName
+Bundle-Version: 3.13.400.v20181211-1115
+Bundle-Localization: plugin
+Built-By: mockbuild
+Bundle-ManifestVersion: 2
+Bundle-Vendor: %providerName
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_191
+

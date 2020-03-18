@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.eclipse.ui.intro.universal
+Bundle-SymbolicName: org.eclipse.ui.intro.universal;singleton:=true
+Built-By: mockbuild
+Require-Bundle: org.eclipse.core.runtime;bundle-version="[3.6.0,4.0.0)
+ ",org.eclipse.help;bundle-version="[3.5.0,4.0.0)",org.eclipse.ui;bund
+ le-version="[3.6.0,4.0.0)",org.eclipse.ui.intro;bundle-version="[3.4.
+ 0,4.0.0)",org.eclipse.ui.intro.quicklinks;bundle-version="1.0.0"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy;exclude:="org.eclipse.ui.internal.intro.
+ universal.contentdetect"
+Bundle-Vendor: %provider_name
+Import-Package: javax.xml.parsers,org.w3c.dom,org.xml.sax
+Eclipse-LazyStart: true; exceptions="org.eclipse.ui.internal.intro.uni
+ versal.contentdetect"
+Export-Package: org.eclipse.ui.internal.intro.universal;x-friends:="or
+ g.eclipse.ua.tests",org.eclipse.ui.internal.intro.universal.contentde
+ tect;x-friends:="org.eclipse.ua.tests",org.eclipse.ui.internal.intro.
+ universal.util;x-internal:=true,org.eclipse.ui.intro.universal
+Bundle-Name: %plugin_name
+Bundle-Version: 3.3.300.v20181211-1115
+Bundle-Localization: plugin
+Bundle-ClassPath: .
+Bundle-Activator: org.eclipse.ui.internal.intro.universal.UniversalInt
+ roPlugin
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_191
+
