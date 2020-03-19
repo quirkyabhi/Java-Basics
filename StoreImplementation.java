@@ -10,14 +10,12 @@ public class StoreImplementation extends StoreApp {
 
     @Override
     public void login() {
-        // TODO Auto-generated method stub
         System.out.println("loginnnn");
 
     }
 
     @Override
     public void payment() {
-        // TODO Auto-generated method stub
         System.out.println("paymentttt");
 
     }

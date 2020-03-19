@@ -36,6 +36,7 @@ public class Switch {
             default:
             System.out.println("No input/Wrong input");
                 break;
+            // sc.close();
         }
     }
 }
