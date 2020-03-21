@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import sun.jvm.hotspot.tools.SysPropsDumper;
+// import sun.jvm.hotspot.tools.SysPropsDumper;
 
 /**
  * Pattern
