@@ -5,6 +5,13 @@ public class StaticVar {
     static int deptCode=5001;
     int rollNo;
     String name;
+    public static void print() {
+        System.out.println("STATIC");
+        
+    }
+    static{
+        System.out.println("THIS IS STATIC BLOCK");
+    }
 
     public static void main(String[] args) {
         StaticVar obj1= new StaticVar();
@@ -33,6 +40,8 @@ public class StaticVar {
         System.out.println("Dept Code: "+ deptCode);
         System.out.println("Roll no: "+obj3.rollNo);
         System.out.println("Name: "+ obj3.name);
+
+        print();
         
     }
 }
