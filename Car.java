@@ -21,7 +21,7 @@ public class Car {
         obj.price= sc.nextInt();
 
         System.out.println("model: "+obj.model+ " \nspeed: "+ obj.speed+ " \ncolor: "+ obj.color+ " \nPrice: "+ obj.price);
-
+        sc.close();
     }
     
 

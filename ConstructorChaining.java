@@ -45,7 +45,7 @@ public class ConstructorChaining extends Base{
     // }
     public static void main(String[] args) {
         ConstructorChaining obj= new ConstructorChaining();
-        // System.out.println("x: "+obj.x); 
+        System.out.println("x: "+obj.x); 
         
     }
 }

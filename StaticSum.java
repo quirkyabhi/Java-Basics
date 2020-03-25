@@ -13,6 +13,7 @@ public class StaticSum {
         int var1= sc.nextInt();
         int var2=sc.nextInt();
         System.out.println("SUM is : "+ sum(var1,var2));
+        sc.close();
     }
 
 }

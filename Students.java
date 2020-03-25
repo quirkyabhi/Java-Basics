@@ -18,7 +18,7 @@ public class Students {
         Students  obj2= new Students();
         obj2.name="Avi";
         obj2.roll_no= 03;
-        obj.section='A';
+        obj2.section='A';
         
         System.out.println("Name : "+ obj2.name);
         System.out.println("Roll mo : "+ obj2.roll_no);

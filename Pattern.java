@@ -11,7 +11,7 @@ public class Pattern {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the number of lines: ");
         int no= sc.nextInt();
-        int n = 1;
+        // int n = 1;
         for (int p = 1; p <= no; p++){
             for (int i = no; i >= p; i--) {
                 System.out.print(" ");
@@ -24,6 +24,7 @@ public class Pattern {
             }
             System.out.println("");
         }
+        sc.close();
     }
 
 }

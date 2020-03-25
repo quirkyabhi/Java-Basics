@@ -16,5 +16,6 @@ public class SavingAccount extends Accounts{
         System.out.println(" your total interest will be: ");
         System.out.println(" Basic interest : "+ sa.BasicInterest);
         System.out.println(" Basic interest : "+ sa.SavingInterest);
+        input.close();
     }
 }
