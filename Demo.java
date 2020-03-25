@@ -15,7 +15,7 @@ public class Demo extends OverriddeAnnotation {
         Demo obj = new Demo();
         @SuppressWarnings("rawtypes")
         // @SuppressWarnings("unused")
-        ArrayList array1 = new ArrayList();
+        // ArrayList array1 = new ArrayList();
         // SuppressWarnings("rawtype")
         // @SuppressWarnings("unchecked")
         // array1.add(101);

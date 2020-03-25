@@ -16,5 +16,8 @@ public class ConstructorOverloading {
         ConstructorOverloading obj= new ConstructorOverloading();
         ConstructorOverloading obj1= new ConstructorOverloading(20);
         ConstructorOverloading obj2= new ConstructorOverloading("ABhi");
+        System.out.println(obj);
+        System.out.println(obj1);
+        System.out.println(obj2);
     }
 }
