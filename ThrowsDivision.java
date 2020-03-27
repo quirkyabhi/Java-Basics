@@ -1,6 +1,9 @@
 class Divide{
     
     public int divide(int a, int b) throws ArithmeticException{
+        if (b==0) {
+            throw new ArithmeticException("Input can't be zero");
+        }
         return a/b;
     }
 }
