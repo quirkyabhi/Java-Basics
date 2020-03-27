@@ -11,14 +11,14 @@ public class CustomerImplementation implements Customer{
 
     @Override
     public void gstRate() {
-        // TODO Auto-generated method stub
+    
         System.out.println("GST");
 
     }
 
     @Override
     public void cusName() {
-        // TODO Auto-generated method stub
+        
         System.out.println("ABHi");
 
     }
