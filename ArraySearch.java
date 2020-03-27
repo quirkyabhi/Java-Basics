@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ArraySearch {
 
     public static void main(String[] args) {
-        int count, ele;
+        int count, ele, index=0;
         boolean flag= false;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter array limit");
@@ -19,12 +19,14 @@ public class ArraySearch {
         System.out.println("Enter element to search: ");
         ele= sc.nextInt();
         for (int i : arr) {
+            index+=1;
             if (i==ele) {
                 flag= true;
+                break;
             }
         }
         if (flag) {
-            System.out.println("Found ");
+            System.out.println("Found at  : "+ index);
             } 
         else {
             System.out.println("Not found");    
