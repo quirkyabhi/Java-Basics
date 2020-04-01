@@ -1,0 +1,518 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileCopy",
+            "request": "launch",
+            "mainClass": "FileCopy",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileWriterDemo",
+            "request": "launch",
+            "mainClass": "FileWriterDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileReaderDemo",
+            "request": "launch",
+            "mainClass": "FileReaderDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadStop",
+            "request": "launch",
+            "mainClass": "ThreadStop",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AccessPackage<java_73987348>",
+            "request": "launch",
+            "mainClass": "AccessPackage",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AnonymousDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "AnonymousDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Arithmetic<java_73987348>",
+            "request": "launch",
+            "mainClass": "Arithmetic",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayAddition<java_73987348>",
+            "request": "launch",
+            "mainClass": "ArrayAddition",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayAvg<java_73987348>",
+            "request": "launch",
+            "mainClass": "ArrayAvg",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "ArrayDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayDemo1<java_73987348>",
+            "request": "launch",
+            "mainClass": "ArrayDemo1",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayDemo2<java_73987348>",
+            "request": "launch",
+            "mainClass": "ArrayDemo2",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArraySearch<java_73987348>",
+            "request": "launch",
+            "mainClass": "ArraySearch",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bitwise<java_73987348>",
+            "request": "launch",
+            "mainClass": "Bitwise",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Car<java_73987348>",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ChainedException<java_73987348>",
+            "request": "launch",
+            "mainClass": "ChainedException",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Child<java_73987348>",
+            "request": "launch",
+            "mainClass": "Child",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Constant<java_73987348>",
+            "request": "launch",
+            "mainClass": "Constant",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConstructorChaining<java_73987348>",
+            "request": "launch",
+            "mainClass": "ConstructorChaining",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConstructorOverloading<java_73987348>",
+            "request": "launch",
+            "mainClass": "ConstructorOverloading",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContinueBreak<java_73987348>",
+            "request": "launch",
+            "mainClass": "ContinueBreak",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CurrentAccount<java_73987348>",
+            "request": "launch",
+            "mainClass": "CurrentAccount",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CustomerImplementation<java_73987348>",
+            "request": "launch",
+            "mainClass": "CustomerImplementation",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo<java_73987348>",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EditProfile<java_73987348>",
+            "request": "launch",
+            "mainClass": "EditProfile",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EmployeeDetails<java_73987348>",
+            "request": "launch",
+            "mainClass": "EmployeeDetails",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExceptionCheckmarks<java_73987348>",
+            "request": "launch",
+            "mainClass": "ExceptionCheckmarks",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExceptionResource<java_73987348>",
+            "request": "launch",
+            "mainClass": "ExceptionResource",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ExceptionTest<java_73987348>",
+            "request": "launch",
+            "mainClass": "ExceptionTest",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Factorial<java_73987348>",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibonacci<java_73987348>",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-First<java_73987348>",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-For<java_73987348>",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloQuotes<java_73987348>",
+            "request": "launch",
+            "mainClass": "HelloQuotes",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<java_73987348>",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-If<java_73987348>",
+            "request": "launch",
+            "mainClass": "If",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Logical<java_73987348>",
+            "request": "launch",
+            "mainClass": "Logical",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MathFunction<java_73987348>",
+            "request": "launch",
+            "mainClass": "MathFunction",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultidimensionArray<java_73987348>",
+            "request": "launch",
+            "mainClass": "MultidimensionArray",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nvars<java_73987348>",
+            "request": "launch",
+            "mainClass": "Nvars",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Pattern<java_73987348>",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PercentSwitch<java_73987348>",
+            "request": "launch",
+            "mainClass": "PercentSwitch",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Prime<java_73987348>",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Relational<java_73987348>",
+            "request": "launch",
+            "mainClass": "Relational",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SavingAccount<java_73987348>",
+            "request": "launch",
+            "mainClass": "SavingAccount",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SavingsAccount<java_73987348>",
+            "request": "launch",
+            "mainClass": "SavingsAccount",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Scope<java_73987348>",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaticNestedOuter<java_73987348>",
+            "request": "launch",
+            "mainClass": "StaticNestedOuter",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaticSum<java_73987348>",
+            "request": "launch",
+            "mainClass": "StaticSum",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaticTester<java_73987348>",
+            "request": "launch",
+            "mainClass": "StaticTester",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaticVar<java_73987348>",
+            "request": "launch",
+            "mainClass": "StaticVar",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StoreImplementation<java_73987348>",
+            "request": "launch",
+            "mainClass": "StoreImplementation",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "StringDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Student<java_73987348>",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StudentInformation<java_73987348>",
+            "request": "launch",
+            "mainClass": "StudentInformation",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Students<java_73987348>",
+            "request": "launch",
+            "mainClass": "Students",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Switch<java_73987348>",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SynchronizedExample<java_73987348>",
+            "request": "launch",
+            "mainClass": "SynchronizedExample",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestDeadlock<java_73987348>",
+            "request": "launch",
+            "mainClass": "TestDeadlock",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThisDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "ThisDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThisDemonstration<java_73987348>",
+            "request": "launch",
+            "mainClass": "ThisDemonstration",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreadDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "ThreadDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThrowsDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "ThrowsDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThrowsDemo1<java_73987348>",
+            "request": "launch",
+            "mainClass": "ThrowsDemo1",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThrowsDivision<java_73987348>",
+            "request": "launch",
+            "mainClass": "ThrowsDivision",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Type<java_73987348>",
+            "request": "launch",
+            "mainClass": "Type",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Unary<java_73987348>",
+            "request": "launch",
+            "mainClass": "Unary",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Variables<java_73987348>",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-While<java_73987348>",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WrapperDemo<java_73987348>",
+            "request": "launch",
+            "mainClass": "WrapperDemo",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EmpDetails<java_73987348>",
+            "request": "launch",
+            "mainClass": "emp.EmpDetails",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Temperature<java_73987348>",
+            "request": "launch",
+            "mainClass": "mypack.Temperature",
+            "projectName": "java_73987348"
+        }
+    ]
+}
