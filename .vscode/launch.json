@@ -6,6 +6,51 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BufferedOutputStreamReader",
+            "request": "launch",
+            "mainClass": "BufferedOutputStreamReader"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileCopy",
+            "request": "launch",
+            "mainClass": "FileCopy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileRead",
+            "request": "launch",
+            "mainClass": "FileRead"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - First",
+            "request": "launch",
+            "mainClass": "First"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BufferedOutputStreamReader",
+            "request": "launch",
+            "mainClass": "BufferedOutputStreamReader",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileRead",
+            "request": "launch",
+            "mainClass": "FileRead",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileInputStreamReader",
+            "request": "launch",
+            "mainClass": "FileInputStreamReader",
+            "projectName": "java_73987348"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FileCopy",
             "request": "launch",
             "mainClass": "FileCopy",

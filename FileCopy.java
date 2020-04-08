@@ -1,6 +1,5 @@
 import java.io.FileReader;
 import java.io.FileWriter;
-// import java.security.acl.Owner;
 
 /**
  * FileCopy
