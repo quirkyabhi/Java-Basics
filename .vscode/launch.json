@@ -6,6 +6,60 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HashStudent",
+            "request": "launch",
+            "mainClass": "HashStudent"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSetSample",
+            "request": "launch",
+            "mainClass": "TreeSetSample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashSetSample",
+            "request": "launch",
+            "mainClass": "HashSetSample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumerationDemo",
+            "request": "launch",
+            "mainClass": "EnumerationDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListsample2",
+            "request": "launch",
+            "mainClass": "ArrayListsample2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayListSample",
+            "request": "launch",
+            "mainClass": "ArrayListSample"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeserializeDemo",
+            "request": "launch",
+            "mainClass": "DeserializeDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SerializationDemo",
+            "request": "launch",
+            "mainClass": "SerializationDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileRe",
+            "request": "launch",
+            "mainClass": "FileRe"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BufferedOutputStreamReader",
             "request": "launch",
             "mainClass": "BufferedOutputStreamReader"
