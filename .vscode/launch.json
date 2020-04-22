@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MapDemo",
+            "request": "launch",
+            "mainClass": "MapDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDq",
+            "request": "launch",
+            "mainClass": "ArrayDq"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Ladderque",
             "request": "launch",
             "mainClass": "Ladderque"
