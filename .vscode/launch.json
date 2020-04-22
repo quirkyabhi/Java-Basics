@@ -6,6 +6,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Ladderque",
+            "request": "launch",
+            "mainClass": "Ladderque"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestClass",
+            "request": "launch",
+            "mainClass": "TestClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ladderque",
+            "request": "launch",
+            "mainClass": "ladderque"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PriorityDemo",
+            "request": "launch",
+            "mainClass": "PriorityDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueDemo",
+            "request": "launch",
+            "mainClass": "QueueDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListEmployee",
+            "request": "launch",
+            "mainClass": "ListEmployee"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HashStudent",
             "request": "launch",
             "mainClass": "HashStudent"
